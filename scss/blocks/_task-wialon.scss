@@ -14,8 +14,8 @@
         margin-top: 40px;
         display: flex;
         justify-content: flex-start;
-        flex-wrap: wrap;
-        gap: 20px;
+        flex-wrap: nowrap;
+        gap: 15px;
         overflow: hidden;
         .task-wialon_button{ 
             min-width: 228px;
